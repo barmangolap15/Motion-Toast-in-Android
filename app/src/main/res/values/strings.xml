@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Motion Toast</string>
+    <string name="success_toast">Success Toast</string>
+    <string name="error_toast">Error Toast</string>
+    <string name="warning_toast">Warning Toast</string>
+    <string name="info_toast">Info Toast</string>
+</resources>
